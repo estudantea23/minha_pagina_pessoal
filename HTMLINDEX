@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang ="PT-BR">
+<head>
+<META CHARSET ="UTF-08">
+<title> "minha pagina" </title>
+</head>
+<body>
+<h1> "bem vindo" </h1>
+<sechian id="sobre">
+<h2> sobre mim </h2>
+<p> meu nome é [yuri] e sou estudante de 
+desenvolvimento. </p>
+<p> estou aprendendo git e github!</p>
+</sechian>
+</body>
+</html>
